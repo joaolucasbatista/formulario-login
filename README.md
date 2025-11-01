@@ -22,6 +22,7 @@ Um projeto de landing page com um formulário de login moderno, apresentando um 
 
 ## 📁 Estrutura do Projeto
 
+```bash
 projeto-login-glass/
 │
 ├── assets/
